@@ -1,5 +1,5 @@
-## Hi I am Alan Lins 👋
-Software Engineer focused on frontend
+## Hi, I am Alan Lins 👋
+Software Engineer focused on Frontend Development.
 - 🔭 I’m currently working on [monodotenv](https://github.com/alanblins/monodotenv), a CLI written in Go to create .env files easily on monorepo projects.
 - 🌱 I’m currently learning Golang
 - 💼 I am looking for job
