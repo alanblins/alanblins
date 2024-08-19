@@ -3,6 +3,7 @@ Software Engineer focused on Frontend Development.
 - 🔭 I’m currently working on [monodotenv](https://github.com/alanblins/monodotenv), a CLI written in Go to create .env files easily on monorepo projects.
 - 🌱 I’m currently learning Golang
 - 💼 I am looking for job
+- 💪 I published my first npm package: [envyman](https://www.npmjs.com/package/envyman)
 
 ## My open source contributions
 - Fix typescript issue for [adobe/aepsdk-react-native](https://github.com/adobe/aepsdk-react-native/pull/354)
