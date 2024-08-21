@@ -2,7 +2,7 @@
 Software Engineer focused on Frontend Development.
 - 🔭 I’m currently working on [monodotenv](https://github.com/alanblins/monodotenv), a CLI written in Go to create .env files easily on monorepo projects.
 - 🌱 I’m currently learning Golang
-- 💼 I am looking for job
+- 💼 I am looking for a job
 - 💪 I published my first npm package: [envyman](https://www.npmjs.com/package/envyman)
 - ✍🏼 Have a look at my blog: [https://alanlins.hashnode.dev/](https://alanlins.hashnode.dev/)
 
