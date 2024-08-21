@@ -4,6 +4,7 @@ Software Engineer focused on Frontend Development.
 - 🌱 I’m currently learning Golang
 - 💼 I am looking for job
 - 💪 I published my first npm package: [envyman](https://www.npmjs.com/package/envyman)
+- ✍🏼 Have a look at my blog: [https://alanlins.hashnode.dev/](https://alanlins.hashnode.dev/)
 
 ## My open source contributions
 - Fix typescript issue for [adobe/aepsdk-react-native](https://github.com/adobe/aepsdk-react-native/pull/354)
