@@ -1,8 +1,6 @@
 ## Hi, I am Alan Lins 👋
 Software Engineer focused on Frontend Development.
-- 🔭 I’m currently working on [monodotenv](https://github.com/alanblins/monodotenv), a CLI written in Go to create .env files easily on monorepo projects.
-- 🌱 I’m currently learning Golang
-- 💼 I am looking for a job
+- 🔭 As part of my journey to learn Go, I'm building a little project called [monodotenv](https://github.com/alanblins/monodotenv). It's a command-line tool that takes one YAML file and uses it to create multiple .env files. If you work on a monorepo with a bunch of different teams and constantly changing environment variables, this should make your life a lot easier!
 - 💪 I published my first npm package: [envyman](https://www.npmjs.com/package/envyman)
 - ✍🏼 Have a look at my blog: [https://alanlins.hashnode.dev/](https://alanlins.hashnode.dev/)
 
